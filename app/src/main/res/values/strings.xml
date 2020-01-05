@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name" translatable="false">HW1_Duy_B1605326</string>
+    <string name="th_c_t">Đồ thị cột</string>
+    <string name="todo">TODO</string>
+    <string name="text2">Chọn số cột (từ 2 đến 9)</string>
+    <string name="text1">VẼ ĐỒ THỊ CỘT (BAR CHARTS)</string>
+    <string name="text3">VẼ</string>
+    <string name="text4">Tên đồ thị:</string>
+    <string name="text5">Title</string>
+    <string name="text6">Tổng số</string>
+    <string name="text7">0</string>
+    <string name="text8">Tên cột</string>
+    <string name="text9">Giá trị</string>
+    <string name="text10">%</string>
+    <string name="text11">1)</string>
+    <string name="text12">2)</string>
+    <string name="text13">3)</string>
+    <string name="text14">4)</string>
+    <string name="text15">5)</string>
+    <string name="text16">6)</string>
+    <string name="text17">7)</string>
+    <string name="text18">8)</string>
+    <string name="text19">9)</string>
+    <string name="text20">Description</string>
+    <string name="txt21">Đồ thị cột</string>
+    <string name="txt22">Đồ thị tròn</string>
+    <string name="txt23">VẼ ĐỒ THỊ TRÒN (PIE CHARTS)</string>
+    <string name="txt24">Nhập số phân đoạn (từ 2 đến 9)</string>
+    <string name="txt25">LƯU</string>
+    <string name="txt26">THOÁT</string>
+    <string name="txt27">Đồ thị hình tròn</string>
+    <string name="txt28">HOME WORK VẼ ĐỒ THỊ</string>
+    <string name="txt29">Thực hành vẽ 3 loại đồ thị Line Plot, Bar Charts và Pie Charts sử dụng các thư viện Androidplot, MPAndroidChart</string>
+    <string name="txt30">LINES PLOT</string>
+    <string name="txt31">BAR CHARTS</string>
+    <string name="txt32">PIE CHARTS</string>
+    <string name="txt33">EXIT</string>
+    <string name="txt34">Chọn số điểm trên trục x</string>
+    <string name="txt35">Trong khoảng 4 đến 10</string>
+    <string name="txt36">10</string>
+    <string name="txt37">Nhập</string>
+    <string name="txt38">Mảng giá trị trên trục x</string>
+    <string name="txt39">Mảng giá trị trên trục y</string>
+    <string name="txt40">VẼ</string>
+    <string name="txt41">TRỞ VỀ</string>
+
+</resources>

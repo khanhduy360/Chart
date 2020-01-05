@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hw1_duy_b1605326">
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:label="Vẽ đồ thị"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data
+                    android:scheme="http"
+                    android:host="www.recipe-app.com"
+                    android:pathPrefix="/recipe" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".BarChartsActivity"></activity>
+        <activity android:name=".BarChart.BarChart2"></activity>
+        <activity android:name=".BarChart.BarChart3"></activity>
+        <activity android:name=".LinesPlotActivity"></activity>
+        <activity android:name=".NhaplieuLinesPlot"></activity>
+        <activity android:name=".PieChartsActivity"></activity>
+        <activity android:name=".pieChart2"></activity>
+        <activity android:name=".pieChart3"></activity>
+        <activity android:name=".pieChart4"></activity>
+        <activity android:name=".pieChart5"></activity>
+        <activity android:name=".pieChart6"></activity>
+        <activity android:name=".pieChart7"></activity>
+        <activity android:name=".pieChart8"></activity>
+        <activity android:name=".pieChart9"></activity>
+        <activity android:name=".BarChart.BarChart4"></activity>
+        <activity android:name=".BarChart.BarChart9"></activity>
+        <activity android:name=".BarChart.BarChart5"></activity>
+        <activity android:name=".BarChart.BarChart6"></activity>
+        <activity android:name=".BarChart.BarChart7"></activity>
+        <activity android:name=".BarChart.BarChart8"></activity>
+    </application>
+</manifest>
